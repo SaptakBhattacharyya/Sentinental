@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Environment
+.env
+.env*
+.env.local
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+sentinel/.expo/
+sentinel/node_modules/
