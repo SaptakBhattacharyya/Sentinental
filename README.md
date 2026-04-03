@@ -70,3 +70,5 @@ The system enforces strict Role-Based Access Control:
 - `/gandhinagar-uni-1`: Original HTML high-fidelity UI mocks.
 - `prd.md`: Product Requirements Document.
 - `setup_supabase.sql`: Database initialization script for Supabase.
+
+My name is Nitish kumar
